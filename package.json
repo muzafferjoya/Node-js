@@ -1,5 +1,5 @@
 {
-  "name": "simple-website-2016",
+  "name": "simple-nodejs-app",
   "version": "1.0.0",
   "description": "A simple website in node js",
   "private": "true",
@@ -12,7 +12,7 @@
     "watch": "npm run clean && npm run watch-css & nodemon server -e js,jade",
     "start": "node server"
   },
-  "author": "Ben Gourley",
+  "author": "Muzaffar khan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4",
